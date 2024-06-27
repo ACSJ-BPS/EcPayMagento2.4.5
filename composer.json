@@ -1,0 +1,9 @@
+{
+  "name": "ecpay/ecpay-magento2-modules",
+  "version": "1.0.0",
+  "type": "metapackage",
+  "description": "ecpay-magento2-modules",
+  "require": {
+    "ecpay/magento2-module-general": "*"
+  }
+}
